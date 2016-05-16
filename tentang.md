@@ -4,6 +4,8 @@ title: Tentang
 permalink: /tentang/
 ---
 
+![donixo-avatar](/assets/donixo-ponyo.png)
+
 Doni Marshall Rangga merupakan pekerja TI di bidang pengembangan perangkat lunak yang kebetulan juga adalah pegawai negeri sipil di lingkungan Kementerian Komunikasi dan Informatika RI. 
 
 Peminatan utamanya adalah pada pemrograman berbasis web dan administrasi server pada sistem operasi GNU/Linux, dengan konsentrasi utama pada bahasa pemrograman PHP, Javascript, dan Python. 
