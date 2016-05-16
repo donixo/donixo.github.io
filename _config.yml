@@ -9,7 +9,7 @@
 title: DN MRSHLL RNGG
 email: donixo@live.com
 description: > # this means to ignore newlines until "baseurl:"
-  <i>/ doni-marshall-rangga /</i>. Berbahasa Indonesia, dalam bentuk ejaan yang belum tentu baik dan benar. Dibuat untuk menampung review serta catatan teknis pemrograman perangkat lunak penulis. Terkadang juga memuat omelan, misuhan dan yang lainnya. Yang termuat di sini adalah murni pendapat pribadi penulis, bukan merupakan pandangan institusi tempat penulis bekerja.
+  <i>/ doni-marshall-rangga /</i>. Tulisan dalam bahasa Indonesia, dalam bentuk ejaan yang belum tentu baik dan benar. Dibuat untuk menampung review serta catatan teknis pemrograman perangkat lunak penulis. Terkadang juga memuat omelan, misuhan dan yang lainnya. Yang termuat di sini adalah murni pendapat pribadi penulis, bukan merupakan pandangan institusi tempat penulis bekerja.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://donixo.github.io" # the base hostname & protocol for your site
 twitter_username: donixo

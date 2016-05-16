@@ -8,6 +8,6 @@ Doni Marshall Rangga merupakan pekerja TI di bidang pengembangan perangkat lunak
 
 Peminatan utamanya adalah pada pemrograman berbasis web dan administrasi server pada sistem operasi GNU/Linux, dengan konsentrasi utama pada bahasa pemrograman PHP, Javascript, dan Python. 
 
-Penulis juga merupakan pekerja TI tersertifikasi Red Hat Certified System Administrator) RHCSA dan (Zend Certified PHP Engineer) ZCPE.
+Lulusan Program Sarjana Ilmu Komputer dari FMIPA Institut Pertanian Bogor ini juga merupakan pekerja TI tersertifikasi <i>Red Hat Certified System Administrator</i> (RHCSA) dan <i>Zend Certified PHP Engineer</i> (ZCPE).
 
-Penulis dapat dihubungi pada alamat surel donixo&lt;at$gt;live.com dan twitter [@donixo](https://twitter.com/donixo).
+Penulis dapat dihubungi pada alamat surel donixo&lt;at&gt;live&lt;dot&gt;com dan twitter [@donixo](https://twitter.com/donixo).
