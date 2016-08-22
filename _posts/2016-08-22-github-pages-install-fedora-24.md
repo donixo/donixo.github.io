@@ -53,5 +53,5 @@ $ sudo gem install github-pages
 and done, back to my coffee :D
 
 
-[1] https://github.com/copiousfreetime/hitimes/issues/54#issuecomment-154829452
+[1]: https://github.com/copiousfreetime/hitimes/issues/54#issuecomment-154829452
 
