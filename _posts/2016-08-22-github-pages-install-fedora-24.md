@@ -33,7 +33,7 @@ You have to install development tools first.`
 
 ```
 
-After searching on Internet[1] , most of them said to install dependencies below using `dnf`:
+After searching on [Internet][1] , most of them said to install dependencies below using `dnf`:
 
 
 ```
