@@ -2,7 +2,7 @@
 layout: post
 title:  "github-pages installation on Fedora 24"
 date:   2016-08-22 07:32 +0700
-categories:ruby jekyll fedora24 
+categories: ruby jekyll fedora24 
 ---
 
 Since I'm trying to setup jekyl on my new linux box, 
