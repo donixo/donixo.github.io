@@ -15,3 +15,4 @@ Categories=
 
 
 save as yourApp.desktop
+source https://developer.gnome.org/integration-guide/stable/desktop-files.html.en
