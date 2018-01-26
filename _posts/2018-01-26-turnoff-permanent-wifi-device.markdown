@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Mematikan Secara Permanen Onboard Wifi Device"
-date:   2017-01-26 18:04:39 +0700
+date:   2018-01-26 18:04:39 +0700
 categories: wifi network onboard
 ---
 
