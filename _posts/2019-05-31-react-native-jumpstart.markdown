@@ -11,7 +11,7 @@ Di lingkungan react-native, ada dua pilihan platform pengembangan. Menggunakan E
 
 Kelebihan menggunakan Expo SDK adalah proses pengembangan terasa lebih mudah, terutama pada saat menggunakan komponen-komponen yang spesifik ke perangkat android/iOS. Namun hal ini dibayar dengan degradasi performa yang bisa saya bilang cukup lambat, apalagi untuk perangkat dengan tenaga komputasi yang tidak terlalu besar. Oleh karena itu, pada saat proses belajar saya lebih memilih untuk tidak menggunakan Expo SDK.
 
-Dalam proses setup terdapat beberapa bagian yang harus kita persiapkan, react-native itu sendiri, android studio, dan emulator/perangkat fisik untuk menjalankan aplikasi
+Dalam proses setup terdapat beberapa bagian yang harus kita persiapkan, react-native itu sendiri, android studio, dan emulator/perangkat fisik untuk menjalankan aplikasi.
 
 
 ## SDK Setup
@@ -49,7 +49,7 @@ sebagai berikut (dengan asumsi kita menggunakan OS Linux Ubuntu 16.04):
  Bus 001 Device 001: ID 1d6b:0002 Linux Foundation 2.0 root hub
 ```
 
-pada kasus ini perangkat saya adalah `Google Inc.` dengan id `18d1:4ee7`, maka kita dapat
+pada kasus ini perangkat saya adalah `Google Inc.` dengan id `18d2:4ee7`, maka kita dapat
 mencatat pengaturan pada `udev` sbb:
 
 ```bash
